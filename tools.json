@@ -1,0 +1,12 @@
+{
+  "tools": {
+    "ports-tool": {
+      "name": "ports-tool",
+      "description": "A tool for checking which ports are in use on your system",
+      "github_repo": "eyalev/ports-tool",
+      "install_method": "github_release",
+      "binary_name": "ports-tool",
+      "install_path": "~/.local/bin"
+    }
+  }
+}
